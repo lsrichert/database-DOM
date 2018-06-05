@@ -1,4 +1,4 @@
-/ JSON.parse to Read the Data
+// JSON.parse to Read the Data
 // saveDatabase(HomeInventoryDatabase, "HomeInventory")
 
 
@@ -106,3 +106,4 @@ const populateDomForDataSet = (dataSet) => {
 //  the above is not complete
 
 // Advanced Challenge
+
