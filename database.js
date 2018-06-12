@@ -1,5 +1,5 @@
 // JSON.parse to Read the Data
-// saveDatabase(HomeInventoryDatabase, "HomeInventory")
+// saveDatabase(HomeInventoryDatabase, "Home Inventory")
 
 
 
@@ -11,7 +11,7 @@ const loadDatabase = function (localStorageKey) {
 
 // // SAVING THE DATABASE
 
-const HomeInventoryDatabase = loadDatabase("HomeInventory")
+const HomeInventoryDatabase = loadDatabase("Home Inventory")
 
 const myStuffArticle = document.querySelector("#myStuff")
 
